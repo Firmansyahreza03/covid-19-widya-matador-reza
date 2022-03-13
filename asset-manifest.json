@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/covid-19-widya-matador-reza/static/css/main.e674e2c8.css",
+    "main.js": "/covid-19-widya-matador-reza/static/js/main.54601249.js",
+    "static/js/787.fd566681.chunk.js": "/covid-19-widya-matador-reza/static/js/787.fd566681.chunk.js",
+    "static/media/logo.svg": "/covid-19-widya-matador-reza/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/covid-19-widya-matador-reza/index.html",
+    "main.e674e2c8.css.map": "/covid-19-widya-matador-reza/static/css/main.e674e2c8.css.map",
+    "main.54601249.js.map": "/covid-19-widya-matador-reza/static/js/main.54601249.js.map",
+    "787.fd566681.chunk.js.map": "/covid-19-widya-matador-reza/static/js/787.fd566681.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e674e2c8.css",
+    "static/js/main.54601249.js"
+  ]
+}
